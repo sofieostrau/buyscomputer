@@ -1,0 +1,3 @@
+﻿REC;age;income;student;credit_rating;buys_computer
+r1;<=30;high;no;fair;no
+r2;<=30;high;no;excellent;no
